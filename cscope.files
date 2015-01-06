@@ -1,0 +1,8 @@
+./mass.c
+./diamond.c
+./diamond.h
+./mass.h
+./support.h
+./dataBase.h
+./dataBase.c
+./russian.c
